@@ -1,0 +1,99 @@
+# Customer Churn Analysis
+
+## Overview
+
+Customer Churn Analysis predicts whether a customer is likely to leave a company by analyzing customer demographics, service usage, account information, and payment history.
+
+This project uses Python, Pandas, Matplotlib, Seaborn, and Scikit-learn to preprocess data, perform exploratory data analysis (EDA), build machine learning models, and generate business insights.
+
+---
+
+## Features
+
+- Data Cleaning
+- Missing Value Handling
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Visualization
+- Machine Learning Prediction
+- Model Evaluation
+- Business Recommendations
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/Customer-Churn-Analysis.git
+```
+
+```bash
+cd Customer-Churn-Analysis
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run
+
+```bash
+python src/model.py
+```
+
+---
+
+## Dataset
+
+The dataset contains customer information such as:
+
+- CustomerID
+- Gender
+- SeniorCitizen
+- Partner
+- Dependents
+- Tenure
+- InternetService
+- Contract
+- PaymentMethod
+- MonthlyCharges
+- TotalCharges
+- Churn
+
+---
+
+## Machine Learning Algorithms
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+---
+
+## Results
+
+- Data Cleaning
+- EDA Visualizations
+- Churn Prediction
+- Model Accuracy
+- Business Insights
+
+---
+
+## Author
+
+Anjali N
